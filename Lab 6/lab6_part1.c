@@ -222,7 +222,7 @@ void Outputs()
 int main(void)
 {
 	DDRA = 0x00; PORTA = 0xFF;
-    DDRC = 0xFF; PORTC = 0x00;
+    	DDRC = 0xFF; PORTC = 0x00;
 	DDRD = 0xFF; PORTD = 0x00;
 	
 	LCD_init();
