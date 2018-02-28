@@ -1,2 +1,2 @@
 # CS120B
-Introduction to Embedded Systems (C)
+Introduction to Embedded Systems
